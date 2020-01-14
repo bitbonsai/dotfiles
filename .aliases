@@ -71,6 +71,7 @@ alias free_diskspace_report="diskspace_report"
 
 # Shortcuts
 alias g="git"
+alias gs="git status -sb"
 alias v="vim"
 alias ungz="gunzip -k"
 

@@ -1,10 +1,12 @@
-# Paul's dotfiles
+# Wolff's dotfiles
 
+* This is a fork of [Paul Irish's `dotfiles`](https://github.com/paulirish/dotfiles). Go get them there ;)
 * I maintain this repo as *my* dotfiles, but I'm keenly aware people are using it for theirs.
 * You're quite welcome to make suggestions, however I may decline if it's not of personal value to me.
 * If you're starting off consider forking [mathias](https://github.com/mathiasbynens/dotfiles/) or [alrra](https://github.com/alrra/dotfiles/). [paulmillr](https://github.com/paulmillr/dotfiles) and [gf3](https://github.com/gf3/dotfiles) also have great setups
 
 ## Setup
+
 #### installing & using
 
 * fork this to your own acct
@@ -68,7 +70,7 @@ Lastly, I use `open .` to open Finder from this path. (That's just available nor
 * `.bashrc`
 * `.exports`
 * `.functions`
-* `.extra` - not included, explained below
+* `.extra` - not included, `touch .extra`
 
 #### manual run
 * `setup-a-new-machine.sh` - random apps i need installed

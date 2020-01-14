@@ -173,14 +173,14 @@ npm install --global diff-so-fancy
 curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh
 
 # github.com/rupa/z   - oh how i love you
-git clone https://github.com/rupa/z.git ~/code/z
+git clone https://github.com/rupa/z.git ~/git/z
 # consider reusing your current .z file if possible. it's painful to rebuild :)
 # z is hooked up in .bash_profile
 
 
 # github.com/thebitguru/play-button-itunes-patch
 # disable itunes opening on media keys
-git clone https://github.com/thebitguru/play-button-itunes-patch ~/code/play-button-itunes-patch
+git clone https://github.com/thebitguru/play-button-itunes-patch ~/git/play-button-itunes-patch
 
 
 # my magic photobooth symlink -> dropbox. I love it.
