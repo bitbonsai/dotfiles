@@ -6,7 +6,7 @@ function md() {
 }
 
 # git better status (combines git status + git diff)
-function gst() {
+function gsd() {
 gawk -vOFS='' '
     NR==FNR {
         all[i++] = $0;

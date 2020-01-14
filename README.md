@@ -28,11 +28,12 @@ This repo contains config for bash, zsh, and fish. As of March 2016, I'm using f
 
 ## my favorite parts.
 
-### [`.aliases`](https://github.com/paulirish/dotfiles/blob/master/.aliases) and [`.functions`](https://github.com/paulirish/dotfiles/blob/master/.functions)
+### [`.aliases`](https://github.com/bitbonsai/dotfiles/blob/master/.aliases) and [`.functions`](https://github.com/paulirish/bitbonsai/blob/master/.functions)
 
 So many goodies.
 
 ### The "readline config" (`.inputrc`)
+
 Basically it makes typing into the prompt amazing.
 
 * tab like crazy for autocompletion that doesnt suck. tab all the things. srsly.
